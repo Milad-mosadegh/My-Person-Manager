@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/My-Person-Manager/static/css/main.24d44e7d.chunk.css",
+    "main.js": "/My-Person-Manager/static/js/main.b21c00f8.chunk.js",
+    "main.js.map": "/My-Person-Manager/static/js/main.b21c00f8.chunk.js.map",
+    "runtime-main.js": "/My-Person-Manager/static/js/runtime-main.8ebfce35.js",
+    "runtime-main.js.map": "/My-Person-Manager/static/js/runtime-main.8ebfce35.js.map",
+    "static/css/2.61b51ee5.chunk.css": "/My-Person-Manager/static/css/2.61b51ee5.chunk.css",
+    "static/js/2.063b76ca.chunk.js": "/My-Person-Manager/static/js/2.063b76ca.chunk.js",
+    "static/js/2.063b76ca.chunk.js.map": "/My-Person-Manager/static/js/2.063b76ca.chunk.js.map",
+    "index.html": "/My-Person-Manager/index.html",
+    "precache-manifest.333720c54111342d24a202012a61c2a1.js": "/My-Person-Manager/precache-manifest.333720c54111342d24a202012a61c2a1.js",
+    "service-worker.js": "/My-Person-Manager/service-worker.js",
+    "static/css/2.61b51ee5.chunk.css.map": "/My-Person-Manager/static/css/2.61b51ee5.chunk.css.map",
+    "static/css/main.24d44e7d.chunk.css.map": "/My-Person-Manager/static/css/main.24d44e7d.chunk.css.map",
+    "static/js/2.063b76ca.chunk.js.LICENSE": "/My-Person-Manager/static/js/2.063b76ca.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ebfce35.js",
+    "static/css/2.61b51ee5.chunk.css",
+    "static/js/2.063b76ca.chunk.js",
+    "static/css/main.24d44e7d.chunk.css",
+    "static/js/main.b21c00f8.chunk.js"
+  ]
+}
